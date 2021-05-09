@@ -17,7 +17,7 @@ _*Temperatures for December*_
 ## Summary
 _*Code snip*_
 
-The queries written to extract June and December data eschew importing datetime, and instead rely on the central element of the string date provided (that is, the -mm- from yyyy-mm-dd) to identify the necessary records.
+The queries written to extract June and December data avoid importing datetime, and instead rely on the central element of the string date provided (that is, the -mm- from yyyy-mm-dd) to identify the necessary records (see snip below).  The resulting output does not need to be converted to a list, eliminating that step, if desired, from the challenge's required procedure.
 
 ![code_snip.png](https://github.com/crkaide/surfs_up/blob/main/code_snip.png?raw=true)
 
