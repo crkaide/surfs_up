@@ -156,9 +156,3 @@ def stats(start=None, end=None):
 # following path to the address in your web browser:
 
 # /api/v1.0/temp/2017-06-01/2017-06-30
-
-
-
-
-
-
