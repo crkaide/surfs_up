@@ -1,7 +1,7 @@
 # Surfs Up
 
 ## Overview & background
-Initial analysis was intended to secure investor backing from W. Avy and his board of directors for a Surf n' Shake shop on the island of Oahu, Hawaii.  Although the investor is enthusiastic about this opportunity, his involvement is contingent upon the site of the business, which will be determined by weather analytics reporting precipitation and temperature from multiple weather reporting stations.  Datasets for analysis were provided by the investor.
+Initial analysis was intended to secure investor backing from W. Avy and his board of directors for a Surf n' Shake shop on the island of Oahu, Hawaii.  Although the investor is enthusiastic about this opportunity, his involvement is contingent upon the site of the business, which will be determined in part by weather analytics reporting precipitation and temperature from multiple weather reporting stations.  Datasets for analysis were provided by the investor.
 
 Following initial analysis of a year's worth of data from August to August, the investor requested summary statistics of all available observations for the months of June and December to inform the operational schedule.  Requested analysis is provided below.
 
